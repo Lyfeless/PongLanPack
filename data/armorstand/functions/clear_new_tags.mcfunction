@@ -1,0 +1,1 @@
+tag @e[tag=asa_spawned] remove asa_spawned
