@@ -1,0 +1,1 @@
+tellraw @a[scores={click=1..}] ["",{"text":"<"},{"text":"Greeter","color":"green"},{"text":"> Due to social distancing, we've decided to cease all contact with the outside village. These restrictions may be lifted in the future."}]

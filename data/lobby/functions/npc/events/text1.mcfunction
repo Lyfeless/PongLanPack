@@ -1,1 +1,1 @@
-say hi
+tellraw @a[scores={click=1..}] ["",{"text":"<"},{"text":"Jester Buddah","color":"green"},{"text":"> Strongis taught me this dance and I gotta say, it's really kooky!"}]
